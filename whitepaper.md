@@ -136,7 +136,7 @@ We propose a solution where the user is rewarded with tokens for their activity.
 
 # **Ecosystem**
 
-![alt text](resources/ecosystem.svg)
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/ecosystem.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/ecosystem.svg)
 
 It is no coincidence that the mobile phone is located at the center of this scheme. Suppose you are an ordinary user (those little people in the upper left corner of the scheme). In that case, you only need to use your phone to participate in improving the quality and meaning of commercial communications and possibly completely change the future of this industry. And, of course, make a little money. We'd like to offer you the opportunity to install the app on your smartphone right now and start collecting coins in locations where you visit and where there is an opportunity to take a short break from your affairs and relax. Launch the app and start collecting **geo-attention tokens.** And now you are already in our ecosystem, and together with us, you are changing the world of commercial communications for the better.
 
@@ -192,7 +192,7 @@ The project's roadmap is presented in general form in the scheme below.
 
 # **Roadmap**
 
-![alt text](resources/roadmap.svg)
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/roadmap.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/roadmap.svg)
 
 ## **Attracting Users**
 
@@ -372,7 +372,8 @@ The **Solana** Program Library (SPL) token is minted on the **Solana** blockchai
    
 **GTAR Token Distribution:** 
 
-![alt text](resources/allocation.svg)
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/allocation.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/allocation.svg)
+
 
 **Emission of the token (Total Supply):** 10,000,000,000 and 6 decimal places.
 
@@ -399,13 +400,15 @@ For our project, we plan to raise a minimum of **$2M.** According to our calcula
 
 **Distribution of Funds on the Diagram:**  
 
-![alt text](resources/fund_allocation.svg)
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/fund_allocation.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/fund_allocation.svg)
+
 
 Having a clear resource allocation plan, we can move on to forecasting the growth of our user base and project development in general.
 
 # **Forecasted Growth Mode**
 
-![alt text](resources/growth_model.svg)
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/growth_model.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/growth_model.svg)
+
 
 An S-shaped growth model is presented here with the following designations:
 
@@ -426,7 +429,7 @@ This screenshot presents one of the growth model variants. Forecasting in the cr
 
 Our roadmap demonstrates a clear vision of the project's development, from attracting the first users to scaling and monetizing the platform. The distribution of tokens and raised funds is aimed at sustainable growth and long-term ecosystem development.
 
-**GeoToken** offers a new tool for commercial communications and is creating a new paradigm of interaction between brands and consumers based on mutual benefit, transparency, and respect for users' personal space.
+**GeoToken** offers a new tool for commercial communications and is creating a new paradigm of interaction between brands and consumers based on mutual benefit, transparency, and respect for users personal space.
 
 We invite investors, developers, commercial partners, and users to join us on this exciting journey. Together, we can change the future of the paid attention industry, making it more effective, ethical, and valuable for all market participants.
 
