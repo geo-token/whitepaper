@@ -364,10 +364,9 @@ The **Solana** Program Library (SPL) token is minted on the **Solana** blockchai
 | **Airdrop / Mining** | 4,500,000,000 | 45% | Sufficient amount for mining for at least three years |
 | **Team & Contributors** | 500,000,000 | 5% | For the project team working on its development |
 | **Community and rewards** | 1,000,000,000 | 10% | For consultants and partners helping the project in development and market promotion |
-| **Seed Round** | 500,000,000 | 5% | Open for proposals |
 | **Private Round** | 1,000,000,000 | 10% | Open for proposals |
-| **Reserve** | 500,000,000 | 10% | A small fund set aside for unforeseen expenses and future initiatives to ensure project stability and flexibility |
-| **Public Round (IDO)** | 2,000,000,000 | 20% | 20,000 users with 100,000 tokens each for 0.0001$ |
+| **Reserve** | 1,000,000,000 | 10% | A small fund set aside for unforeseen expenses and future initiatives to ensure project stability and flexibility |
+| **Public Round (IDO)** | 2,000,000,000 | 20% | 20,000 users with 100,000 tokens each for 0.001$ |
 
    
 **GTAR Token Distribution:** 
