@@ -376,6 +376,7 @@ The **Solana** Program Library (SPL) token is minted on the **Solana** blockchai
 [![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/allocation.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/allocation.svg)
 
 **Token Unlock Schedule Over 3 Years (36 months):** 
+
 [![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/token_unlock_schedule.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/token_unlock_schedule.svg)
 
 
