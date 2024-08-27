@@ -358,23 +358,26 @@ Your privacy and security are our top priority:
 The **Solana** Program Library (SPL) token is minted on the **Solana** blockchain platform.  
  
 
-| Distribution Type | Amount | Percent | Description |
-| :---- | :---- | :---- | :---- |
-| **Total Supply** | 10,000,000,000.000000 | 100% | 10 billion tokens and six decimal places |
-| **Airdrop / Mining** | 4,500,000,000 | 45% | Sufficient amount for mining for at least three years |
-| **Team & Contributors** | 500,000,000 | 5% | For the project team working on its development |
-| **Community and rewards** | 1,000,000,000 | 10% | For consultants and partners helping the project in development and market promotion |
-| **Private Round** | 1,000,000,000 | 10% | Open for proposals |
-| **Reserve** | 1,000,000,000 | 10% | A small fund set aside for unforeseen expenses and future initiatives to ensure project stability and flexibility |
-| **Public Round (IDO)** | 2,000,000,000 | 20% | 20,000 users with 100,000 tokens each for 0.001$ |
+| **Token Allocation**        | **Amount of Token** | **% of Total Supply** | **Unlock % of This Allocation at TGE** | **Cliff Period (months)** | **Vesting Period (months)** | **TGE % of Total Supply** |
+|-----------------------------|--------------------|-----------------------|---------------------------------------|---------------------------|-----------------------------|---------------------------|
+| Advisory                    | 0.3B               | 3%                    | 0%                                   | 6                         | 24                          | 0%                        |
+| Team & Contributors          | 1B                 | 10%                   | 0%                                   | 12                        | 24                          | 0%                        |
+| Ecosystem                    | 4B                 | 40%                   | 10%                                  | 0                         | 24                          | 4%                        |
+| Public Sale                  | 2B                 | 20%                   | 75%                                  | 0                         | 6                           | 15%                       |
+| Private Sale                 | 0.7B               | 7%                    | 25%                                  | 6                         | 24                          | 1.75%                     |
+| Reserve                      | 0.7B               | 7%                    | 0%                                   | 6                         | 24                          | 0%                        |
+| Liquidity                    | 0.7B               | 7%                    | 50%                                  | 0                         | 12                          | 3.5%                      |
+| Marketing & Partnerships      | 0.6B               | 6%                    | 5%                                   | 3                         | 24                          | 0.3%                      |
+| **Total**                    | **10B**            | **100%**              |                                       |                           |                             | **24.55%**                |
 
    
 **GTAR Token Distribution:** 
 
 [![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/allocation.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/allocation.svg)
 
+**Token Unlock Schedule Over 3 Years (36 months):** 
+[![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/token_unlock_schedule.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/token_unlock_schedule.svg)
 
-**Emission of the token (Total Supply):** 10,000,000,000 and 6 decimal places.
 
 The project uses the **Solana** blockchain to mint SPL tokens, providing high performance and low transaction costs. **Solana** is a blockchain that has repeatedly confirmed its reliability and stability and is a reliable foundation for many blockchain projects. The mobile application acts as a bridge, allowing users to easily participate in mining and receive tokens directly in their wallets. The user can improve mining capabilities by keeping funds in the balance of their wallet.
 
