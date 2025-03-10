@@ -35,7 +35,7 @@ Due to active digitalization, the advertising sector has significantly transform
 
 However, digital advertising faces the problem of untimely display when advertising materials may appear inappropriate, such as during an online game or watching a series, causing user dissatisfaction. In contrast, outdoor advertising can be more appropriate as it meets a potential client in real time and space, for example, by offering a promotion when passing by a store.
 
-Outdoor advertising has its drawbacks. What if it's not this intersection but the next one? Knowing about promotions there, you might be okay with walking or driving an extra block. Outdoor advertising needs more interactivity. The latest but outdated developments include the introduction of QR code systems and the unsuccessful attempts to implement augmented reality (AR). Why, having mobile phones, are you still handed paper products by a promoter?
+Outdoor advertising has its drawbacks. What if it's not this intersection but the next one? Knowing about promotions there, you might be okay with walking or driving an extra block. Outdoor advertising needs more interactivity. The latest but outdated developments include introducing QR code systems and the unsuccessful attempts to implement augmented reality (AR). Why, having mobile phones, are you still handed paper products by a promoter?
 
 **Difficulties in Measuring Effectiveness.**  
 One of the main problems of outdoor advertising is the need for more accurately measuring its impact on the consumer. Different from digital advertising, which can precisely track user interaction with an advertising message, this is much harder to do with outdoor advertising.
@@ -43,7 +43,7 @@ One of the main problems of outdoor advertising is the need for more accurately 
 **Environmental Issue.**  
 The production and disposal of advertising materials, especially paper and plastic, negatively impact the environment. With growing environmental awareness, this aspect may play an increasingly important role.
 
-Modern cities are oversaturated with advertising messages, creating information noise. Billboards, posters, and signs all vie for the passerby's attention, reducing the effectiveness of individual advertising mediums. In such an environment, it is difficult to stand out and attract consumer attention, especially with significant spending on creativity and location.
+Modern cities are oversaturated with advertising messages, creating information noise. Billboards, posters, and signs all vie for the passerby's attention, reducing the effectiveness of individual advertising mediums. In such an environment, it isn't easy to stand out and attract consumer attention, especially with significant spending on creativity and location.
 
 Sadly, most fail to experience the "big game" without making a loud statement.
 
@@ -115,7 +115,7 @@ Thus, rewarding users improves engagement and interactivity and allows brands to
 **Result:** Strengthening interaction
 
 * More vital interaction between brands and their audience  
-* Development of innovative approaches in the paid attention industry
+* Development of innovative approaches in the paid-attention industry
 
 **Conclusion:** A new level of interactivity
 
@@ -127,7 +127,7 @@ The benefits of rewarded commercial communications are apparent, and we will onl
 We propose a solution where the user is rewarded with tokens for their activity. In the initial phase, we plan to distribute tokens among all participants. Users who show the most activity will be rewarded with more tokens. We propose a competitive distribution scheme. In this case, **the user interacting more actively with the application receives a greater reward than the more passive participants.** The activity can be varied:
 
 * **Watching commercial videos:** One of the most common ways to reward users, especially in mobile games and apps where users receive in-game currency, bonuses, or advantages for watching video content.  
-* **Participating in surveys and studies:** Users can receive rewards for filling out questionnaires, participating in marketing studies and surveys, and providing valuable feedback and data.  
+* **Participating in surveys and studies:** Users can receive rewards for completing questionnaires, participating in marketing studies and surveys, and providing valuable feedback and data.  
 * **Registering on websites or subscribing to services:** Offering rewards for registering on new platforms, subscribing to newsletters, or trial versions of services.  
 * **Creating content and participating in contests:** Users can be rewarded for creating quality content, participating in contests, or completing creative tasks promoting the brand.  
 * **Posting reviews and recommendations:** Some companies reward for writing reviews about products or services and for recommendations that help attract new customers.  
@@ -138,9 +138,9 @@ We propose a solution where the user is rewarded with tokens for their activity.
 
 [![alt text](https://raw.githubusercontent.com/geo-token/whitepaper/main/resources/ecosystem.svg)](https://github.com/geo-token/whitepaper/blob/main/resources/ecosystem.svg)
 
-It is no coincidence that the mobile phone is located at the center of this scheme. Suppose you are an ordinary user (those little people in the upper left corner of the scheme). In that case, you only need to use your phone to participate in improving the quality and meaning of commercial communications and possibly completely change the future of this industry. And, of course, make a little money. We'd like to offer you the opportunity to install the app on your smartphone right now and start collecting coins in locations where you visit and where there is an opportunity to take a short break from your affairs and relax. Launch the app and start collecting **geo-attention tokens.** And now you are already in our ecosystem, and together with us, you are changing the world of commercial communications for the better.
+It is no coincidence that the mobile phone is located at the center of this scheme. Suppose you are an ordinary user (those little people in the upper left corner of the scheme). In that case, you only need to use your phone to participate in improving the quality and meaning of commercial communications and possibly completely change the future of this industry. And, of course, make a little money. We want to offer you the opportunity to install the app on your smartphone right now and start collecting coins in locations where you visit and where there is an opportunity to take a short break from your affairs and relax. Launch the app and start collecting **geo-attention tokens.** And now you are already in our ecosystem, and together with us, you are changing the world of commercial communications for the better.
 
-Why do you need these tokens? The more your balance, the greater your opportunities; accordingly, you start mining more and more effectively. **Your income grows, and the simplest thing you can do is scatter some of the tokens where you want.** Do not just scatter, but attach any information you want to them. **So, please make sure to declare yourself and your capabilities. You can attach any digital information to each coin and indicate the location.**
+Why do you need these tokens? The more your balance, the greater your opportunities; accordingly, you start mining more and more effectively. **Your income grows, and the simplest thing you can do is scatter some of the tokens where you want.** Do not just scatter; attach any information you want to them. **So, please make sure to declare yourself and your capabilities. You can attach any digital information to each coin and indicate the location.**
 
 **It could be:**
 
@@ -150,7 +150,7 @@ Why do you need these tokens? The more your balance, the greater your opportunit
 * If you have your own business, attract attention to distribution points for your goods.  
 * Imagine the potential of your new project in the field of cryptocurrencies. You can distribute your tokens, for example, in a specific region, sequentially across regions, or evenly among all ecosystem participants, unlocking new opportunities for all.
 
-**Stop\!** But what if I don't have time to mine but also want to post information about my product or service on your platform? Then, you are no longer just a user; you are a promoter, and our platform was created precisely to help promote your goods, products, and ideas. You can calmly purchase the necessary number of tokens from those users who spent their time and attention collecting tokens.
+**Stop\!** What if I don't have time to mine but also want to post information about my product or service on your platform? Then, you are no longer just a user; you are a promoter, and our platform was created precisely to help promote your goods, products, and ideas. You can calmly purchase the necessary number of tokens from those users who spent their time and attention collecting tokens.
 
 **You have several ways to do this:**
 
@@ -174,19 +174,18 @@ The modern and fast **Solana** blockchain is responsible for the safe and fast t
 We plan to develop the application with particular attention to making the token collection process exciting and engaging. We already have many ideas we want to implement, and we are excited to collaborate with all participants, including you, to make this a reality.
 
 # **What We Already Have**
-
-We have an app in closed testing, and those interested can get access to familiarize themselves with it. The algorithm in the app performs a token airdrop, providing equal conditions for all users to obtain them. **But in any case, those users who show the most activity and join the project earlier will earn more than others.** Essentially, this is a deployed server infrastructure, databases, and the logic that unites them in demonstrating the capabilities and the main engine for mining coins at a specific location. The ability to connect your wallet and withdraw tokens to a "cold" wallet is implemented using blockchain in the **Solana ecosystem.** At this stage, the system automatically conducts token airdrops, and administrators can also carry out this process manually.
+We have an open testing app on the [Apple Store](https://testflight.apple.com/join/V0N8SmuJ) and [Google Play Market](https://play.google.com/store/apps/details?id=probability.inc.gtar), and those interested can get access to familiarize themselves with it. The algorithm in the app performs a token airdrop, providing equal conditions for all users to obtain them. **But in any case, those users who show the most activity and join the project earlier will earn more than others.** Essentially, this is a deployed server infrastructure, databases, and the logic that unites them in demonstrating the capabilities and the main engine for mining coins at a specific location. The ability to connect your wallet and withdraw tokens to a "cold" wallet is implemented using blockchain in the **Solana ecosystem.** At this stage, the system automatically conducts token airdrops, and administrators can also carry out this process manually.
 
 * Users can collect tokens in their location, and for increased activity and regular visits, they will receive rewards in the form of improved characteristics.  
 * Additional rewards are provided for inviting other users via referral code.  
-* A minimum task in the form of training for each user also receives a reward.  
+* A minimum task in training for each user also receives a reward.  
 * Users can track their global and individual mining statistics, and most importantly, they have the opportunity to compete for first place in the leaderboard. This feature adds a competitive edge to the game, keeping users engaged and striving for the top position.  
 * The ability to pick up tokens from nearby neighbors, observe their mining activity in the radar visibility zone, and analyze the overall statistics of collected coins.  
 * With the help of radar, users can scan their neighborhood and embark on an exciting token-hunting adventure. This feature adds an element of thrill and excitement to the game, making users feel more engaged and eager to explore their surroundings.
 
-In a few words, what does mining in our app represent? This is not mining in the usual sense of the word, where the phone or computer's computing resources are involved. You get tokens for confirming your location. In a sense, this is proof of location. In the initial stage, the system, and subsequently a commercial partner, pays you through the system to visit the necessary location and confirm this with your mobile phone. But **we do not transmit your data to the blockchain** as is customary in an accurate proof-of-location system. We act as intermediaries between the commercial partner and the blockchain, implementing location confirmation through an ordinary mobile phone. So that you know, the commercial partner needs to know your location. He only knows you got acquainted with his commercial offer if you received a reward. You also visited the target location if the commercial message was tied to a specific place.
+In a few words, what does mining in our app represent? This is not mining in the usual sense of the word, where the phone or computer's computing resources are involved. You get tokens for confirming your location. In a sense, this is proof of location. In the initial stage, the system, and subsequently a commercial partner, pays you through the system to visit the necessary location and confirm this with your mobile phone. But **we do not transmit your data to the blockchain** as is customary in an accurate proof-of-location system. We act as intermediaries between the commercial partner and the blockchain, implementing location confirmation through an ordinary mobile phone. So that you know, the commercial partner needs to know your location. He knows you got acquainted with his commercial offer if you got rewarded. If the commercial message was tied to a specific place, you also visited the target location.
 
-Our team has already developed and successfully tested the product in a focus group. Now, we are ready to implement a series of crucial tasks and innovative ideas that will significantly enhance the product. This is one of the main reasons we need funds from the **IDO**.
+Our team developed and successfully tested the product in a focus group. We are ready to implement a series of crucial tasks and innovative ideas that will significantly enhance the product. This is one of the main reasons we need funds from the **IDO**.
 
 The project's roadmap is presented in general form in the scheme below.
 
@@ -202,21 +201,21 @@ To attract users and form a community, participants will distribute tokens evenl
 
 As the app gains popularity, scaling becomes crucial to ensure a stable operation with increasing users. This may include increasing server capacity and optimizing code and databases. Rest assured, we are constantly observing the project's development, determining the directions that have gained popularity among users, and balancing the speed and amount of token distribution among participants.
 
-Particular attention should be paid to promoting the project among users at the first stage. Some coverage and popularity will be obtained during the **IDO** on platforms. Further, it is planned to create and distribute valuable, relevant, and consistent content that will keep our audience informed and engaged. This will include blogs, videos, podcasts, and social media.
+Particular attention should be paid to promoting the project among users at the first stage. Some coverage and popularity will be obtained on platforms during the **IDO**. Further, it is planned to create and distribute valuable, relevant, and consistent content to keep our audience informed and engaged. This will include blogs, videos, podcasts, and social media.
 
 The main focus will be on using social media platforms to promote the product and create viral content that users will want to share with others. A basic referral program for users has also been developed, which will be expanded and improved.
 
 **Launching a Referral Program**
 
 * **Goal:** Encourage users to invite friends and acquaintances.  
-* **Mechanics:** For each invitation, the user receives bonus coins.  
+* **Mechanics:** Users will receive bonus coins for each invitation.  
 * **Result:** Exponential growth of the user base.
 
 **First Steps for Free**
 
 * **Goal:** Attract new users.  
 * **Mechanics:** New users receive free coins to familiarize themselves with the app.  
-* **Result:** Increase in the number of new users and activity.
+* **Result:** Increase in new users and activity.
 
 **Influencer Marketing**
 
@@ -239,7 +238,7 @@ The main focus will be on using social media platforms to promote the product an
 
 **TikTok:** Collaborate with popular TikTokers to create viral videos and challenges related to our app. This will help attract a young audience that is actively using TikTok.
 
-**LinkedIn:** Establish contacts with professional communities and corporate partners. Publish articles and updates to attract the business audience's and potential partners' attention.
+**LinkedIn:** Establish contacts with professional communities and corporate partners. I'd like you to please publish articles and updates to attract the business audience's and potential partners' attention.
 
 **Google:** Use Google Ads to launch advertising campaigns targeting people looking for ways to earn cryptocurrency or new mobile apps.
 
@@ -265,7 +264,7 @@ Developing partnerships is a crucial stage of monetization and promotion, drivin
 
 This point can be discussed forever; we have the most plans and developments. Let's focus on some of them.
 
-**User airdrop:** We are adding the ability for each user to conduct an airdrop of their tokens to attract attention to the information placed on them. The usual boundary between the user and the commercial partner is erased here. Choose what you need at the moment.
+**User airdrop:** We are adding the ability for each user to conduct an airdrop of their tokens to attract attention to the information placed on them. The usual boundary between the user and the commercial partner is erased here. You can choose what you need right now.
 
 **Mining pools:** Adding the ability for users to unite in pools to improve the characteristics of mining equipment.
 
@@ -279,7 +278,7 @@ This point can be discussed forever; we have the most plans and developments. Le
 
 **NFT:** This can be linked to the previous point and the ability to improve mining equipment or purchase plots.
 
-**Tokenholder management:** Decision-making based on voting by large token holders.
+**Token holder management:** Decision-making based on voting by large token holders.
 
 **Game tasks and quizzes:** This will add a competitive element for participants. There is only a leaderboard at this stage, but there are ideas to add tasks and quizzes based on the user's location and radar capabilities.
 
@@ -291,7 +290,7 @@ We will systematically aggregate the data after developing and analyzing the use
 
 ## **Partnership Development**
 
-Highlighted as a separate point is the development of partnerships, as this is one of the main stages of monetization and promotion, driving the entire system through the turnover of existing tokens. Crucially, this approach allows us to avoid the need to mint new tokens, ensuring the sustainability of our system. At this point, let's focus on those market participants who may benefit from our capabilities:
+I've highlighted this as a separate point, as this is one of the main stages of monetization and promotion, driving the entire system through the turnover of existing tokens. Crucially, this approach allows us to avoid the need to mint new tokens, ensuring the sustainability of our system. At this point, let's focus on those market participants who may benefit from our capabilities:
 
 1\.   Owners of goods and products distribution points  
 2\.   Artists and performers  
@@ -350,8 +349,8 @@ Your privacy and security are our top priority:
   5\.   **Limited use:** Your data is used solely to ensure the operation of our service. We never sell or transfer your personal information to third parties.  
   6\.   **Transparency:** We use your location data only to ensure the app's functionality.  
   7\.   **Control in your hands:** You can always request that all your data be deleted from our system.  
-  8\.   **Regular data updates:** We delete outdated location information that is no longer needed for service operation.  
-  9\.   **Continuous improvement:** We regularly conduct checks and update our security systems to protect your data from new threats.
+  8\.   **Regular data updates:** We delete outdated location information no longer needed for service operation.  
+  9\.   **Continuous improvement:** We regularly check and update our security systems to protect your data from new threats.
 
 # **Technical Description of the GeoToken**
 
@@ -388,7 +387,7 @@ The **GTAR token**, minted by the **Solana** blockchain, is the foundation of ou
 
 # **Distribution of Raised Funds**
 
-For our project, we plan to raise a minimum of **$2M.** According to our calculations, this amount is minimally sufficient to implement the intended objectives. The raised funds are designed to be used as follows:
+We plan to raise a minimum of **$2M for our project.** According to our calculations, this amount is minimally sufficient to implement the intended objectives. The raised funds are designed to be used as follows:
 
 | Expense Item | Amount | % |
 | :---- | :---- | :---- |
@@ -426,13 +425,13 @@ This screenshot presents one of the growth model variants. Forecasting in the cr
 **GeoToken** represents an approach to commercial communications combining geolocation technologies, blockchain, and the concept of rewarding attention. Our project aims to solve critical problems of the modern paid-attention industry by creating value for all ecosystem participants.  
  **Critical Advantages of GeoToken:**
 
-* **For users,** this means the ability to receive rewards for attention to commercial content, more relevant messages, and the protection of personal data.  
+* **For users,** this means the ability to receive rewards for attention to commercial content, more relevant messages, and personal data protection.  
 * **This means precise geotargeting for commercial partners, increasing campaign effectiveness in attracting attention, and** direct interaction with the engaged audience.  
 * **For the market as a whole:** Creating a new model of interaction between brands and consumers, stimulating innovation in the paid attention industry.
 
 Our roadmap demonstrates a clear vision of the project's development, from attracting the first users to scaling and monetizing the platform. The distribution of tokens and raised funds is aimed at sustainable growth and long-term ecosystem development.
 
-**GeoToken** offers a new tool for commercial communications and is creating a new paradigm of interaction between brands and consumers based on mutual benefit, transparency, and respect for users personal space.
+**GeoToken** offers a new tool for commercial communications and is creating a new paradigm of interaction between brands and consumers based on mutual benefit, transparency, and respect for user's personal space.
 
 We invite investors, developers, commercial partners, and users to join us on this exciting journey. Together, we can change the future of the paid attention industry, making it more effective, ethical, and valuable for all market participants.
 
