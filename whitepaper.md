@@ -201,7 +201,7 @@ To attract users and form a community, participants will distribute tokens evenl
 
 As the app gains popularity, scaling becomes crucial to ensure a stable operation with increasing users. This may include increasing server capacity and optimizing code and databases. Rest assured, we are constantly observing the project's development, determining the directions that have gained popularity among users, and balancing the speed and amount of token distribution among participants.
 
-Particular attention should be paid to promoting the project among users at the first stage. Some coverage and popularity will be obtained on platforms during the **IDO**. Further, it is planned to create and distribute valuable, relevant, and consistent content to keep our audience informed and engaged. This will include blogs, videos, podcasts, and social media.
+Particular attention should be paid to promoting the project among users at the first stage. Some coverage and popularity will be obtained on platforms during the **IDO**. Further, it is planned to create and distribute valuable, relevant, and consistent Descriptioncontent to keep our audience informed and engaged. This will include blogs, videos, podcasts, and social media.
 
 The main focus will be on using social media platforms to promote the product and create viral content that users will want to share with others. A basic referral program for users has also been developed, which will be expanded and improved.
 
@@ -352,7 +352,7 @@ Your privacy and security are our top priority:
   8\.   **Regular data updates:** We delete outdated location information no longer needed for service operation.  
   9\.   **Continuous improvement:** We regularly check and update our security systems to protect your data from new threats.
 
-# **Technical Description of the GeoToken**
+# **Technical Description of the GeoToken (Tokenomics)**
 
 The **Solana** Program Library (SPL) token is minted on the **Solana** blockchain platform.  
  
